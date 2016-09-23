@@ -1,4 +1,4 @@
-spring-framework-4-reference
+spring-framework-4-reference-test
 ============================
 
 ![logo](logo.jpg)
